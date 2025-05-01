@@ -2,4 +2,6 @@ this is a test, but with a change.
 
 accountability is made easy with good commit messages
 
+this is now a feature branch that has new changes
+
 a push to main
